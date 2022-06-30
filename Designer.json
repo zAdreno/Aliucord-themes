@@ -1,51 +1,35 @@
 {
-    "manifest": {
-        "version": "1.0.0",
-        "name": "Designer",
-        "author": "adreno#1787",
-        "license": "Unlicense"
-    },
-    "background": {
-        "overlay_alpha": 120,
-        "blur_radius": 0,
-        "url": "https://cdn.discordapp.com/attachments/770317951676579852/992039197454127104/unknown.png"
-    },
-    "fonts": {
-        "*": "https://cdn.discordapp.com/attachments/770317951676579852/992042365911056404/Oxygen-Regular.ttf"
-    },
-    "simple_colors": {
-        "active_channel": -901858662,
-        "accent": -15427723,
-        "mention_highlight": 639085702,
-        "background_secondary": 420981894,
-        "background": 269986950
-    },
-    "colors": {
-        "brand": -10172242,
-        "brand_new_500": -10172242,
-        "primary_dark_400": -245053266,
-        "primary_dark_360": -1416898877,
-        "uikit_btn_compound_color_selector_dark": -10172242,
-        "primary_dark_300": -245187933,
-        "uikit_btn_compound_color_selector_light": -1723942246,
-        "uikit_settings_item_text_color_dark": -250308747,
-        "uikit_settings_item_text_color_light": -1723942246,
-        "abc_tint_switch_track": 1717881006,
-        "link": -7612733,
-        "link_500": -7612733,
-        "primary_dark_200": -12666214,
-        "white_500": -1,
-        "brand_500_alpha_20": -1760258187,
-        "brand_new_260": -7612733,
-        "status_yellow_500_alpha_10": -12666214,
-        "status_yellow_500": -10172242
-    },
-    "drawable_tints": {
-        "ic_sidebar_notifications_on_dark_24dp": -247547238,
-        "ic_sidebar_notifications_off_dark_24dp": -237554646,
-        "ic_sidebar_pins_off_dark_24dp": -247547238,
-        "ic_sidebar_pins_on_dark_24dp": -247547238,
-        "ic_thread": -247547238
-    },
-    "raws": {}
+  "manifest": {
+    "author": "adreno#1787",
+    "version": "1.0.0",
+    "name": "Designer",
+    "license": "Unlicense",
+    "transparency_mode": 3,
+    "updater": "https://raw.githubusercontent.com/zAdreno/Aliucord-themes/main/Designer.json"
+  },
+  "background": {
+    "url": "https://cdn.discordapp.com/attachments/770317951676579852/992039197454127104/unknown.png",
+    "blur_radius": 5,
+    "overlay_alpha": 75
+  },
+  "fonts": {
+    "*": "https://cdn.discordapp.com/attachments/770317951676579852/992042365911056404/Oxygen-Regular.ttf"
+  },
+  "simple_colors": {
+    "active_channel": -896316126,
+    "accent": -4098527,
+    "mention_highlight": 650212897,
+    "background_secondary": 425402897,
+    "background": 276643352
+  },
+  "colors": {
+    "primary_dark_200": -4098527,
+    "white_500": -1,
+    "primary_700": -8766195,
+    "link": -786212
+  },
+  "drawable_tints": {
+    "ic_status_online_16dp": -7586437
+  },
+  "raws": {}
 }
