@@ -3,9 +3,9 @@
     "author": "adreno#1787",
     "version": "1.0.0",
     "name": "Designer",
-    "license": "Unlicense",
-    "transparency_mode": 3,
-    "updater": "https://raw.githubusercontent.com/zAdreno/Aliucord-themes/main/Designer.json"
+    "updater": "https://raw.githubusercontent.com/zAdreno/Aliucord-themes/main/Designer.json",
+    "license": "GNU GPL",
+    "transparency_mode": 3
   },
   "background": {
     "url": "https://cdn.discordapp.com/attachments/770317951676579852/992039197454127104/unknown.png",
@@ -23,13 +23,21 @@
     "background": 276643352
   },
   "colors": {
-    "primary_dark_200": -4098527,
+    "primary_dark_200": -2184081,
     "white_500": -1,
-    "primary_700": -8766195,
-    "link": -786212
+    "primary_700": 1769618701,
+    "link": -2652372,
+    "primary_dark_360": -4619952,
+    "primary_630": -12572647,
+    "primary_dark_300": -3295851,
+    "brand_500_alpha_20": 871470679,
+    "brand_new_560": -3964602,
+    "brand_new_260": -1586279,
+    "primary_dark_800": -15197924
   },
   "drawable_tints": {
-    "ic_status_online_16dp": -7586437
+    "ic_status_online_16dp": -7586437,
+    "ic_channel_text": -4098527
   },
   "raws": {}
 }
