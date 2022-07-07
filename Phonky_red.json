@@ -1,0 +1,32 @@
+{
+  "manifest": {
+    "author": "adreno#1787",
+    "version": "0.0.1",
+    "transparency_mode": 3,
+    "name": "Phonky red",
+    "license": "GNU GPL"
+  },
+  "background": {
+    "url": "https://cdn.discordapp.com/attachments/543800860522840064/992053613700583495/unknown.png",
+    "overlay_alpha": 160,
+    "blur_radius": 0
+  },
+  "simple_colors": {
+    "background": 8920092,
+    "input_background": -10737624
+  },
+  "colors": {
+    "uikit_settings_item_text_color_light": -1556930,
+    "primary_dark_360": -6546147,
+    "white_500": -205090,
+    "primary_dark_660": -1930936770,
+    "primary_dark_300": -1879727,
+    "uikit_btn_compound_color_selector_dark": -7196477,
+    "primary_dark_800": 16777215,
+    "primary_dark_200": -1
+  },
+  "drawable_tints": {
+    "drawable_overlay_channels_selected_dark": -1556930,
+    "drawable_bg_reaction_dark": -2136780463
+  }
+}
